@@ -34,11 +34,15 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 
 from collections import Counter
 def Max_string(s,k):
-    s= list(s)
-    pt1=0
-    pt2=0
-    d = Counter(s)
-    for i in range(len(s)):
+    count = Counter()
+    best = i =0
+    for j in range(len(s)):
+        count[s[j]] +=1
+        best = max( best , count[s[j]])
+        if best + k < j-i+1
+            count[s[j]]-=1
+            i+=1
+     return len(s)-i
         
 
 
