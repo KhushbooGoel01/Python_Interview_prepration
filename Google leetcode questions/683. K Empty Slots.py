@@ -23,4 +23,4 @@ Note:
 The given array will be in the range [1, 20000].
 
 def K_slot_day(f,k):
-    
+    ,
