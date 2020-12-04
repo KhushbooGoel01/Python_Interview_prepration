@@ -17,3 +17,18 @@ https://medium.com/tech-life-fun/algorithm-cheatsheet-continuously-updated-a95ef
 
 leetfree for interview questions(don't work on chrome):
 https://heip.github.io/LeetCodePremium/company/google.html
+
+
+A good warm up article:
+https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27
+
+
+https://realpython.com/python-coding-interview-tips/
+
+
+
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
+
+
+https://medium.com/@ratulsaha/preparing-for-programming-interview-as-a-phd-student-with-python-5f8af8b40d5f
